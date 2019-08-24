@@ -1,0 +1,33 @@
+body
+{	margin:0px;
+	padding:0px;
+}
+
+h2
+{	font-family: Arial;
+	font-weight:lighter;
+	padding-left: 1px;
+}
+
+#class.p
+{
+	width:400px;
+	font-family: Arial;
+	font-size: 100%;
+	padding-left: 25px;
+	line-height: 20px;
+}
+img{
+	padding-bottom: 25px;
+	padding-left: 400px;
+	padding-right: 20px;
+	width: 200px;
+	height: 200px;
+}
+
+.div{
+	display:flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+
+}
